@@ -1,2 +1,2 @@
-# nvchad2.1
-# nvchad
+# nvchad 2.1 
+my nvchad settings for nvim:
